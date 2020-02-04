@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+<menu category="adult">
+<title>Adult's Menu</title>
+<section category="First">
+<title>Starters</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+<section category="Second">
+<title>Main</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+<section category="Third">
+<title>Dessert</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+</menu>
+<menu category="children">
+<title>Children's menu</title>
+<section category="First">
+<title>Starters</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+<section category="Second">
+<title>Main</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+<section category="Third">
+<title>Dessert</title>
+<p> Dish 1 </p>
+<p> Dish 2 </p>
+<p> Dish 3 </p>
+<p> Dish 4 </p>
+<p> Dish 5 </p>
+</section>
+</menu>
+</note>
